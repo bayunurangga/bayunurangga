@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/bayunurangga/bayunurangga/blob/main/images/bg.png" />
+<img src="https://github.com/bayunurangga/bayunurangga/blob/main/images/bg.webp" />
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/bayunurangga/bayunurangga"/> 
